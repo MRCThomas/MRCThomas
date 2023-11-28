@@ -33,11 +33,8 @@ DEVELOPPEMENT =>
 </br></br>
 - CMS :
 
-<a href="https://www.odoo.com"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/odoo.png" alt=”wp” height ="50px" width ="50px"/></a>
-
 <a href="https://wordpress.com/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/wordpress.png" alt=”wp” height ="50px" width ="50px"/></a>
 
-<a href="https://bubble.io/"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/bubbleio.png" alt=”bubble.io” height ="50px" width ="50px"/></a>
 </br></br></br>
 
 PAO & UIUX DESIGN =>
