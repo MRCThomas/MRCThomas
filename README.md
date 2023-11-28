@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World ! 👋
 <div align="center">
     <img src="https://github.com/MRCThomas/MRCThomas/blob/main/Banner.svg">
 </div>
@@ -59,7 +59,7 @@ PAO & UIUX DESIGN =>
 <a href=""> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/figma.png" alt=”adobe” height ="50px" width ="50px"/></a>
 </br></br></br>
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectordll&layout=compact)](https://github.com/hectordll)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRCThomas&layout=compact)](https://github.com/MRCThomas)
 <!--
 **MRCThomas/MRCThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
