@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div class="banner">
+  <img url="./banner.svg" alt="">
+</div>
 <!--
 **MRCThomas/MRCThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
