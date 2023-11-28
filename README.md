@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-    <img src="[https://github.com/MRCThomas/MRCThomas/Banner.svg](https://github.com/MRCThomas/MRCThomas/blob/main/Banner.svg)">
+    <img src="https://github.com/MRCThomas/MRCThomas/blob/main/Banner.svg">
 </div>
 <!--
 **MRCThomas/MRCThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
