@@ -1,6 +1,6 @@
 ### Hello World ! 👋🏻
 <div align="center">
-    <img border-radius="15px" src="https://github.com/MRCThomas/MRCThomas/blob/main/Banner.svg">
+    <img src="https://github.com/MRCThomas/MRCThomas/blob/main/Banner.svg">
 </div>
 <div align="center">
 <h1>MRCThomas</h1>
