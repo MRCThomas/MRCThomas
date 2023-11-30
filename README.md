@@ -11,7 +11,7 @@
 DEVELOPPEMENT =>
 - Langage :
 
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML"> <img align="left" src="[https://hectordll.github.io/CV-Numerique/assets/img/icon/html5.png](https://github.com/MRCThomas/MRCThomas/blob/main/html-5.png)" alt=”html” height ="50px" width ="50px"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/html-5.png" alt=”html” height ="50px" width ="50px"/></a>
 
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS/@document"> <img align="left" src="https://hectordll.github.io/CV-Numerique/assets/img/icon/css3.png" alt=”css” height ="50px" width ="50px"/></a>
 
