@@ -37,7 +37,6 @@ DEVELOPPEMENT =>
 
 PAO & UIUX DESIGN =>
 
-</br></br>
 - Wireframe & Prototype :
 
 <a href="https://www.figma.com/fr/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/figma.png" alt=”figma” height ="50px" width ="50px"/></a>
