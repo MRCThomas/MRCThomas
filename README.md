@@ -40,7 +40,10 @@ PAO & UIUX DESIGN =>
 </br></br>
 - Wireframe & Prototype :
 
-<a href=""> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/figma.png" alt=”figma” height ="50px" width ="50px"/></a>
+<a href="https://www.figma.com/fr/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/figma.png" alt=”figma” height ="50px" width ="50px"/></a>
+
+<a href="https://wordpress.com/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/Blender_logo_no_text.svg" alt=”wp” height ="50px" width ="50px"/></a>
+
 </br></br></br>
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRCThomas&layout=compact)](https://github.com/MRCThomas)
