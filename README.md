@@ -1,5 +1,5 @@
 ### Hello World ! 👋
-<div align="center">
+<div align="center" border-radius="15px">
     <img src="https://github.com/MRCThomas/MRCThomas/blob/main/Banner.svg">
 </div>
 <div align="center">
