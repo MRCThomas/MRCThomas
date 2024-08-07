@@ -27,6 +27,8 @@ DEVELOPPEMENT =>
 
 <a href="https://vuejs.org/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/vue.png" alt=”vuejs” height ="50px" width ="50px"/></a>
 
+<a href="https://symfony.com/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/img-symfony.png" alt=”symfony” height ="50px" width ="50px"/></a>
+
 <a href="https://getbootstrap.com/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/bootstrap-logo-vector.svg" alt=”bootstrap” height ="50px" width ="50px"/></a>
 </br></br>
 - CMS :
