@@ -3,7 +3,7 @@
     <img src="https://github.com/MRCThomas/MRCThomas/blob/main/Banner.svg">
 </div>
 <div align="center">
-<h1>MRCThomas</h1>
+<h1>Thomas Marchi</h1>
 <h3>Étudiant à La Manu - France</h3>
 </div>
 
