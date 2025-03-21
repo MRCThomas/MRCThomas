@@ -31,34 +31,5 @@ DEVELOPPEMENT =>
 
 <a href="https://getbootstrap.com/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/bootstrap-logo-vector.svg" alt=”bootstrap” height ="50px" width ="50px"/></a>
 </br></br>
-- CMS :
-
-<a href="https://wordpress.com/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/wordpress.png" alt=”wp” height ="50px" width ="50px"/></a>
-
-</br></br></br>
-
-PAO & UIUX DESIGN =>
-
-- Wireframe & Prototype :
-
-<a href="https://www.figma.com/fr/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/figma.png" alt=”figma” height ="50px" width ="50px"/></a>
-
-<a href="https://wordpress.com/"> <img align="left" src="https://github.com/MRCThomas/MRCThomas/blob/main/Blender_logo_no_text.svg" alt=”wp” height ="50px" width ="50px"/></a>
-
-</br></br></br>
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRCThomas&layout=compact)](https://github.com/MRCThomas)
-<!--
-**MRCThomas/MRCThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
