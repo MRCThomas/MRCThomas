@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages et outils</h3>
+<h3 align="left">🛠 Langages et outils</h3>
 
 ###
 
